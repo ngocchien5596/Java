@@ -39,7 +39,7 @@ def test():
     # Nhăn vào Unidashboard
     driver.find_element(By.XPATH,"//span[text()='Unidashboard']").click()
     time.sleep(2)
-    
+
     # Tìm kiếm project
     driver.find_element(By.XPATH,"(//input[@placeholder='Search for project'])[1]").send_keys(projectName)
     time.sleep(5)
@@ -59,5 +59,7 @@ def test():
     # Nhấn chọn tab Project Actors
     driver.find_element(By.XPATH,"//span[text()='Project Actors']").click()
     time.sleep(2)
+
+    
 
     driver.quit()
