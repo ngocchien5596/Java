@@ -3,3 +3,13 @@
 2023-04-07 16:23:18,025 - root - INFO - *********Home page title is passed ***********
 2023-04-07 16:23:19,658 - root - INFO - *********test_login:***********
 2023-04-07 16:23:31,139 - root - INFO - *********test login is passed ***********
+2023-04-07 17:53:16,030 - root - INFO - *********Test_Login_001:***********
+2023-04-07 17:53:16,037 - root - INFO - *********test_homePageTitle:***********
+2023-04-07 17:53:18,833 - root - INFO - *********Home page title is passed ***********
+2023-04-07 17:53:20,661 - root - INFO - *********test_login:***********
+2023-04-07 17:53:26,014 - root - INFO - *********test login is passed ***********
+2023-04-07 17:53:47,091 - root - INFO - *********Test_Login_001:***********
+2023-04-07 17:53:47,105 - root - INFO - *********test_homePageTitle:***********
+2023-04-07 17:53:49,409 - root - INFO - *********Home page title is passed ***********
+2023-04-07 17:53:50,949 - root - INFO - *********test_login:***********
+2023-04-07 17:53:54,563 - root - INFO - *********test login is passed ***********
