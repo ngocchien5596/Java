@@ -13,6 +13,7 @@ class Test_Login_001:
     password = ReadConfig.getPassword()
     expected_login_title = ReadConfig.getExpected_login_title()
     expected_title = ReadConfig.getExpected_title()
+    expected_banner_title = ReadConfig.getExpected_banner_title()
 
     logger = LogGen.loggen()
 
@@ -42,13 +43,15 @@ class Test_Login_001:
         self.lp.setPassword(self.password)
         self.lp.clickLogin()
         act_bannerText = self.driver.find_element(By.XPATH, LoginPage.homePage_bannerText_xpath).text
-        if act_bannerText == self.expected_title:
+        if act_bannerText == self.expected_banner_title:
             self.logger.info("*********test login is passed ***********")
+            self.lp.clickLogout()
             self.driver.close()
             assert True
         else:
             self.driver.save_screenshot("./Screenshots/" + "test_login.png")
             self.logger.error("*********test login is failed ***********")
+            self.lp.clickLogout()
             self.driver.close()
             assert False
 

@@ -28,3 +28,13 @@ class ReadConfig:
     def getExpected_title():
         expected_title = config.get('common info', 'expected_title')
         return expected_title
+
+    @staticmethod
+    def getExpected_banner_title():
+        expected_banner_title = config.get('common info', 'expected_banner_title')
+        return expected_banner_title
+
+    @staticmethod
+    def getTestDataPath():
+        testDataPath = config.get('common info', 'path')
+        return testDataPath

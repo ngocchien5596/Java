@@ -13,3 +13,104 @@
 2023-04-07 17:53:49,409 - root - INFO - *********Home page title is passed ***********
 2023-04-07 17:53:50,949 - root - INFO - *********test_login:***********
 2023-04-07 17:53:54,563 - root - INFO - *********test login is passed ***********
+2023-04-10 15:03:25,673 - root - INFO - *********Test_Login_001:***********
+2023-04-10 15:03:25,690 - root - INFO - *********test_homePageTitle:***********
+2023-04-10 15:03:25,693 - root - INFO - *********test_login:***********
+2023-04-10 15:03:36,574 - root - INFO - *********Home page title is passed ***********
+2023-04-10 15:03:53,107 - root - INFO - *********test login is passed ***********
+2023-04-10 15:21:13,158 - root - INFO - *********test_login:***********
+2023-04-10 15:21:13,159 - root - INFO - *********Test_Login_001:***********
+2023-04-10 15:21:13,181 - root - INFO - *********test_homePageTitle:***********
+2023-04-10 15:21:17,999 - root - INFO - *********Home page title is passed ***********
+2023-04-10 15:21:28,687 - root - INFO - *********test login is passed ***********
+2023-04-10 16:23:43,851 - root - INFO - *********Test_Login_002_DDT***********
+2023-04-10 16:23:43,859 - root - INFO - *********test_login DDT:***********
+2023-04-10 16:23:52,617 - root - INFO - ***Failed***
+2023-04-10 16:23:52,619 - root - INFO - => Login DDT test failed
+2023-04-10 16:24:57,714 - root - INFO - *********Test_Login_002_DDT***********
+2023-04-10 16:24:57,718 - root - INFO - *********test_login DDT:***********
+2023-04-10 16:25:05,897 - root - INFO - ***Failed***
+2023-04-10 16:30:56,105 - root - INFO - *********Test_Login_002_DDT***********
+2023-04-10 16:30:56,127 - root - INFO - *********test_login DDT:***********
+2023-04-10 16:31:03,671 - root - INFO - ***Failed***
+2023-04-10 16:32:13,121 - root - INFO - *********Test_Login_002_DDT***********
+2023-04-10 16:32:13,134 - root - INFO - *********test_login DDT:***********
+2023-04-10 16:32:24,689 - root - INFO - ***Failed***
+2023-04-10 16:33:23,570 - root - INFO - *********Test_Login_002_DDT***********
+2023-04-10 16:33:23,573 - root - INFO - *********test_login DDT:***********
+2023-04-10 16:33:31,919 - root - INFO - ***Failed2***
+2023-04-10 16:34:08,413 - root - INFO - *********Test_Login_002_DDT***********
+2023-04-10 16:34:08,432 - root - INFO - *********test_login DDT:***********
+2023-04-10 16:34:15,492 - root - INFO - ***Failed2***
+2023-04-10 16:35:45,361 - root - INFO - *********Test_Login_002_DDT***********
+2023-04-10 16:35:45,371 - root - INFO - *********test_login DDT:***********
+2023-04-10 16:35:52,686 - root - INFO - ***Passed1***
+2023-04-10 16:38:52,001 - root - INFO - *********Test_Login_001:***********
+2023-04-10 16:38:52,052 - root - INFO - *********test_homePageTitle:***********
+2023-04-10 16:38:55,156 - root - INFO - *********Home page title is passed ***********
+2023-04-10 16:38:56,528 - root - INFO - *********test_login:***********
+2023-04-10 16:39:01,109 - root - ERROR - *********test login is failed ***********
+2023-04-10 16:40:51,109 - root - INFO - *********Test_Login_001:***********
+2023-04-10 16:40:51,111 - root - INFO - *********test_homePageTitle:***********
+2023-04-10 16:40:53,464 - root - INFO - *********Home page title is passed ***********
+2023-04-10 16:40:54,888 - root - INFO - *********test_login:***********
+2023-04-10 16:41:00,561 - root - ERROR - *********test login is failed ***********
+2023-04-10 16:42:07,992 - root - INFO - *********Test_Login_001:***********
+2023-04-10 16:42:07,993 - root - INFO - *********test_homePageTitle:***********
+2023-04-10 16:42:10,389 - root - INFO - *********Home page title is passed ***********
+2023-04-10 16:42:11,800 - root - INFO - *********test_login:***********
+2023-04-10 16:42:18,380 - root - ERROR - *********test login is failed ***********
+2023-04-10 16:44:27,692 - root - INFO - *********Test_Login_001:***********
+2023-04-10 16:44:27,828 - root - INFO - *********test_homePageTitle:***********
+2023-04-10 16:44:31,518 - root - INFO - *********Home page title is passed ***********
+2023-04-10 16:44:33,006 - root - INFO - *********test_login:***********
+2023-04-10 16:44:37,992 - root - ERROR - *********test login is failed ***********
+2023-04-10 16:53:13,637 - root - INFO - *********Test_Login_001:***********
+2023-04-10 16:53:13,664 - root - INFO - *********test_homePageTitle:***********
+2023-04-10 16:53:17,226 - root - INFO - *********Home page title is passed ***********
+2023-04-10 16:53:19,182 - root - INFO - *********test_login:***********
+2023-04-10 16:53:24,031 - root - ERROR - *********test login is failed ***********
+2023-04-10 16:54:23,237 - root - INFO - *********Test_Login_001:***********
+2023-04-10 16:54:23,251 - root - INFO - *********test_homePageTitle:***********
+2023-04-10 16:54:25,501 - root - INFO - *********Home page title is passed ***********
+2023-04-10 16:54:26,972 - root - INFO - *********test_login:***********
+2023-04-10 16:54:31,962 - root - ERROR - *********test login is failed ***********
+2023-04-10 16:55:03,767 - root - INFO - *********Test_Login_001:***********
+2023-04-10 16:55:03,770 - root - INFO - *********test_homePageTitle:***********
+2023-04-10 16:55:06,873 - root - INFO - *********Home page title is passed ***********
+2023-04-10 16:55:08,286 - root - INFO - *********test_login:***********
+2023-04-10 16:55:12,722 - root - ERROR - *********test login is failed ***********
+2023-04-10 16:55:43,484 - root - INFO - *********Test_Login_001:***********
+2023-04-10 16:55:43,502 - root - INFO - *********test_homePageTitle:***********
+2023-04-10 16:55:45,501 - root - INFO - *********Home page title is passed ***********
+2023-04-10 16:55:46,936 - root - INFO - *********test_login:***********
+2023-04-10 16:55:50,760 - root - ERROR - *********test login is failed ***********
+2023-04-10 16:57:31,806 - root - INFO - *********Test_Login_001:***********
+2023-04-10 16:57:31,810 - root - INFO - *********test_homePageTitle:***********
+2023-04-10 16:57:33,954 - root - INFO - *********Home page title is passed ***********
+2023-04-10 16:57:35,471 - root - INFO - *********test_login:***********
+2023-04-10 16:57:39,715 - root - ERROR - *********test login is failed ***********
+2023-04-10 17:06:21,456 - root - INFO - *********Test_Login_001:***********
+2023-04-10 17:06:21,459 - root - INFO - *********test_homePageTitle:***********
+2023-04-10 17:06:24,593 - root - INFO - *********Home page title is passed ***********
+2023-04-10 17:06:26,165 - root - INFO - *********test_login:***********
+2023-04-10 17:06:30,850 - root - ERROR - *********test login is failed ***********
+2023-04-10 17:08:22,270 - root - INFO - *********Test_Login_001:***********
+2023-04-10 17:08:22,273 - root - INFO - *********test_homePageTitle:***********
+2023-04-10 17:08:24,810 - root - INFO - *********Home page title is passed ***********
+2023-04-10 17:08:26,261 - root - INFO - *********test_login:***********
+2023-04-10 17:08:32,635 - root - ERROR - *********test login is failed ***********
+2023-04-10 17:16:18,741 - root - INFO - *********Test_Login_001:***********
+2023-04-10 17:16:18,748 - root - INFO - *********test_homePageTitle:***********
+2023-04-10 17:16:21,194 - root - INFO - *********Home page title is passed ***********
+2023-04-10 17:16:22,723 - root - INFO - *********test_login:***********
+2023-04-10 17:16:31,141 - root - INFO - *********test login is passed ***********
+2023-04-10 17:18:46,079 - root - INFO - *********Test_Login_002_DDT***********
+2023-04-10 17:18:46,082 - root - INFO - *********test_login DDT:***********
+2023-04-10 17:18:52,791 - root - INFO - ***Passed1***
+2023-04-10 17:18:57,350 - root - INFO - ***Failed3***
+2023-04-10 17:19:01,158 - root - INFO - ***Failed3***
+2023-04-10 17:19:04,914 - root - INFO - ***Failed3***
+2023-04-10 17:19:04,915 - root - INFO - => Login DDT test passed
+2023-04-10 17:19:05,106 - root - INFO - End of Login DDT test done
+2023-04-10 17:19:05,106 - root - INFO - Completed Test_Login_002_DDT
