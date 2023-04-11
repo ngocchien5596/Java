@@ -1,12 +1,11 @@
 from selenium.webdriver.common.by import By
 from ultilities.readProperites import ReadConfig
 class LoginPage:
-    textbox_username_id = "Username"
+    textbox_username_id = "Email"
     textbox_password_id = "Password"
-    button_login_xpath = "(//input[@value='Log in'])[1]"
-    button_user_xpath = "(//*[name()='svg'])[3]"
-    button_logout_xpath = "(//span[normalize-space()='Log out'])[1]"
-    homePage_bannerText_xpath = "(//h1[normalize-space()='Free and open-source eCommerce platform'])[1]"
+    button_login_xpath = "(//button[normalize-space()='Log in'])[1]"
+    button_logout_xpath = "(//a[normalize-space()='Logout'])[1]"
+    homePage_bannerText_xpath = "(//h1[normalize-space()='Dashboard'])[1]"
 
     baseURL = ReadConfig.getApplicationURL()
     def __init__(self, driver):
@@ -24,9 +23,6 @@ class LoginPage:
         self.driver.find_element(By.XPATH, self.button_login_xpath).click()
 
     def clickLogout(self):
-        # print("a")
-        # self.driver.find_element(By.XPATH, self.button_user_xpath).click()
-        # print("b")
-        # self.driver.find_element(By.XPATH, self.button_logout_xpath).click()
-        # print("c")
-        self.driver.get(self.baseURL)
+        self.driver.find_element(By.XPATH, self.button_logout_xpath).click()
+
+
