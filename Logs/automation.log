@@ -157,3 +157,194 @@
 2023-04-11 10:21:02,584 - root - INFO - => Login DDT test passed
 2023-04-11 10:21:02,760 - root - INFO - End of Login DDT test done
 2023-04-11 10:21:02,760 - root - INFO - Completed Test_Login_002_DDT
+2023-04-12 10:57:30,868 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 10:57:37,754 - root - INFO - *** Login successful ***
+2023-04-12 10:59:23,585 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 10:59:28,362 - root - INFO - *** Login successful ***
+2023-04-12 11:01:50,790 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 11:01:54,791 - root - INFO - *** Login successful ***
+2023-04-12 11:02:59,921 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 11:03:04,733 - root - INFO - *** Login successful ***
+2023-04-12 11:14:16,829 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 11:14:21,895 - root - INFO - *** Login successful ***
+2023-04-12 11:17:31,643 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 11:17:36,460 - root - INFO - *** Login successful ***
+2023-04-12 11:18:30,324 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 11:18:35,326 - root - INFO - *** Login successful ***
+2023-04-12 11:20:47,805 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 11:20:54,680 - root - INFO - *** Login successful ***
+2023-04-12 11:20:56,641 - root - INFO - *** Start to provide customer information ***
+2023-04-12 11:23:09,351 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 11:23:13,804 - root - INFO - *** Login successful ***
+2023-04-12 11:23:15,697 - root - INFO - *** Start to provide customer information ***
+2023-04-12 11:33:41,854 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 11:33:46,832 - root - INFO - *** Login successful ***
+2023-04-12 11:33:48,286 - root - INFO - *** Start to provide customer information ***
+2023-04-12 11:38:41,384 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 11:38:47,937 - root - INFO - *** Login successful ***
+2023-04-12 11:38:50,245 - root - INFO - *** Start to provide customer information ***
+2023-04-12 11:40:39,649 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 11:40:43,869 - root - INFO - *** Login successful ***
+2023-04-12 11:40:45,354 - root - INFO - *** Start to provide customer information ***
+2023-04-12 11:42:47,038 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 11:42:51,339 - root - INFO - *** Login successful ***
+2023-04-12 11:42:54,096 - root - INFO - *** Start to provide customer information ***
+2023-04-12 11:42:54,096 - root - INFO - *** Email is mzgyabus@gmail.com ***
+2023-04-12 11:45:19,101 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 11:45:23,286 - root - INFO - *** Login successful ***
+2023-04-12 11:45:24,809 - root - INFO - *** Start to provide customer information ***
+2023-04-12 11:45:24,811 - root - INFO - *** Email is nselgaft@gmail.com ***
+2023-04-12 11:46:51,089 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 11:46:55,302 - root - INFO - *** Login successful ***
+2023-04-12 11:46:56,776 - root - INFO - *** Start to provide customer information ***
+2023-04-12 11:46:56,782 - root - INFO - *** Email is dqnqklfr@gmail.com ***
+2023-04-12 11:51:16,357 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 11:51:21,690 - root - INFO - *** Login successful ***
+2023-04-12 11:51:23,106 - root - INFO - *** Start to provide customer information ***
+2023-04-12 11:51:23,107 - root - INFO - *** Email is xfvjhttm@gmail.com ***
+2023-04-12 11:52:20,226 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 11:52:31,112 - root - INFO - *** Login successful ***
+2023-04-12 11:52:32,857 - root - INFO - *** Start to provide customer information ***
+2023-04-12 11:52:32,857 - root - INFO - *** Email is gcggwndr@gmail.com ***
+2023-04-12 13:51:19,859 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 13:51:23,502 - root - INFO - *** Login successful ***
+2023-04-12 13:51:25,152 - root - INFO - *** Start to provide customer information ***
+2023-04-12 13:51:25,153 - root - INFO - *** Email is zxknnbtu@gmail.com ***
+2023-04-12 13:54:03,227 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 13:54:09,083 - root - INFO - *** Login successful ***
+2023-04-12 13:54:11,409 - root - INFO - *** Start to provide customer information ***
+2023-04-12 13:54:11,410 - root - INFO - *** Email is aingkked@gmail.com ***
+2023-04-12 13:54:54,520 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 13:54:58,649 - root - INFO - *** Login successful ***
+2023-04-12 13:55:00,100 - root - INFO - *** Start to provide customer information ***
+2023-04-12 13:55:00,101 - root - INFO - *** Email is qajvqmfv@gmail.com ***
+2023-04-12 13:55:20,172 - root - INFO - *** Click Save ***
+2023-04-12 13:56:33,572 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 13:56:37,935 - root - INFO - *** Login successful ***
+2023-04-12 13:56:43,015 - root - INFO - *** Start to provide customer information ***
+2023-04-12 13:56:43,015 - root - INFO - *** Email is rgmmookb@gmail.com ***
+2023-04-12 13:57:03,064 - root - INFO - *** Click Save ***
+2023-04-12 14:00:05,051 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 14:00:10,258 - root - INFO - *** Login successful ***
+2023-04-12 14:00:12,088 - root - INFO - *** Start to provide customer information ***
+2023-04-12 14:00:12,089 - root - INFO - *** Email is dyethkto@gmail.com ***
+2023-04-12 14:00:32,215 - root - INFO - *** Click Save ***
+2023-04-12 14:02:14,716 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 14:02:20,288 - root - INFO - *** Login successful ***
+2023-04-12 14:02:28,056 - root - INFO - *** Start to provide customer information ***
+2023-04-12 14:02:28,059 - root - INFO - *** Email is cwlnoavs@gmail.com ***
+2023-04-12 14:02:48,395 - root - INFO - *** Click Save ***
+2023-04-12 14:02:48,595 - root - INFO - ******* Ending Add customer test **********
+2023-04-12 14:02:48,595 - root - INFO - *** Save successful ***
+2023-04-12 14:08:40,329 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 14:08:44,790 - root - INFO - *** Login successful ***
+2023-04-12 14:08:46,976 - root - INFO - *** Start to provide customer information ***
+2023-04-12 14:08:46,978 - root - INFO - *** Email is ambgqdrv@gmail.com ***
+2023-04-12 14:09:07,203 - root - INFO - *** Click Save ***
+2023-04-12 14:09:07,230 - root - INFO - ********* Add customer Test Passed *********
+2023-04-12 14:09:07,410 - root - INFO - ******* Ending Add customer test **********
+2023-04-12 14:09:07,410 - root - INFO - *** Save successful ***
+2023-04-12 14:14:29,866 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 14:14:34,174 - root - INFO - *** Login successful ***
+2023-04-12 14:14:35,621 - root - INFO - *** Start to provide customer information ***
+2023-04-12 14:14:35,621 - root - INFO - *** Email is aeiodwhm@gmail.com ***
+2023-04-12 14:14:53,355 - root - INFO - *** Click Save ***
+2023-04-12 14:14:53,370 - root - INFO - ********* Add customer Test Passed *********
+2023-04-12 14:14:53,544 - root - INFO - ******* Ending Add customer test **********
+2023-04-12 14:14:53,549 - root - INFO - *** Save successful ***
+2023-04-12 14:27:01,736 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 14:27:05,936 - root - INFO - *** Login successful ***
+2023-04-12 14:27:07,665 - root - INFO - *** Start to provide customer information ***
+2023-04-12 14:27:07,666 - root - INFO - *** Email is xobhdwcq@gmail.com ***
+2023-04-12 14:30:28,028 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 14:30:32,181 - root - INFO - *** Login successful ***
+2023-04-12 14:30:33,646 - root - INFO - *** Start to provide customer information ***
+2023-04-12 14:30:33,646 - root - INFO - *** Email is cdzydhum@gmail.com ***
+2023-04-12 14:31:08,891 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 14:31:11,734 - root - INFO - *** Login successful ***
+2023-04-12 14:31:13,296 - root - INFO - *** Start to provide customer information ***
+2023-04-12 14:31:13,311 - root - INFO - *** Email is iycreylg@gmail.com ***
+2023-04-12 14:31:30,953 - root - INFO - *** Click Save ***
+2023-04-12 14:31:30,975 - root - INFO - ********* Add customer Test Passed *********
+2023-04-12 14:31:31,173 - root - INFO - ******* Ending Add customer test **********
+2023-04-12 14:31:31,173 - root - INFO - *** Save successful ***
+2023-04-12 14:42:36,376 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 14:42:40,651 - root - INFO - *** Login successful ***
+2023-04-12 14:42:44,963 - root - INFO - *** Start to provide customer information ***
+2023-04-12 14:42:44,964 - root - INFO - *** Email is iyfavuyc@gmail.com ***
+2023-04-12 14:43:02,561 - root - INFO - *** Click Save ***
+2023-04-12 14:43:02,581 - root - INFO - ********* Add customer Test Passed *********
+2023-04-12 14:43:02,698 - root - INFO - ******* Ending Add customer test **********
+2023-04-12 14:43:02,698 - root - INFO - *** Save successful ***
+2023-04-12 14:43:04,791 - root - INFO - ***** Test add new customer without Customer Roles *****
+2023-04-12 14:43:09,214 - root - INFO - *** Login successful ***
+2023-04-12 14:43:17,087 - root - INFO - *** Start to provide customer information ***
+2023-04-12 14:43:17,088 - root - INFO - *** Email is zbnvppkl@gmail.com ***
+2023-04-12 14:44:42,052 - root - INFO - ***** Test add new customer without Customer Roles *****
+2023-04-12 14:44:42,056 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 14:44:47,694 - root - INFO - *** Login successful ***
+2023-04-12 14:44:48,000 - root - INFO - *** Login successful ***
+2023-04-12 14:44:49,747 - root - INFO - *** Start to provide customer information ***
+2023-04-12 14:44:49,748 - root - INFO - *** Email is bxkhqfbp@gmail.com ***
+2023-04-12 14:44:50,873 - root - INFO - *** Start to provide customer information ***
+2023-04-12 14:44:50,873 - root - INFO - *** Email is dkaznbhk@gmail.com ***
+2023-04-12 14:45:08,352 - root - INFO - *** Click Save ***
+2023-04-12 14:45:08,380 - root - INFO - ********* Add customer Test Passed *********
+2023-04-12 14:45:08,637 - root - INFO - ******* Ending Add customer test **********
+2023-04-12 14:45:08,652 - root - INFO - *** Save successful ***
+2023-04-12 14:50:19,857 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-12 14:50:24,524 - root - INFO - *** Login successful ***
+2023-04-12 14:50:26,026 - root - INFO - *** Start to provide customer information ***
+2023-04-12 14:50:26,027 - root - INFO - *** Email is kmobqtok@gmail.com ***
+2023-04-12 14:50:43,589 - root - INFO - *** Click Save ***
+2023-04-12 14:50:43,604 - root - INFO - ********* Add customer Test Passed *********
+2023-04-12 14:50:43,788 - root - INFO - ******* Ending Add customer test **********
+2023-04-12 14:50:43,788 - root - INFO - *** Save successful ***
+2023-04-12 14:50:45,641 - root - INFO - ***** Test add new customer without Customer Roles *****
+2023-04-12 14:50:56,105 - root - INFO - *** Login successful ***
+2023-04-12 14:50:58,183 - root - INFO - *** Start to provide customer information ***
+2023-04-12 14:50:58,183 - root - INFO - *** Email is kruuuarg@gmail.com ***
+2023-04-12 14:54:48,704 - root - INFO - ***** Test add new customer without Customer Roles *****
+2023-04-12 14:54:53,336 - root - INFO - *** Login successful ***
+2023-04-12 14:54:54,771 - root - INFO - *** Start to provide customer information ***
+2023-04-12 14:54:54,771 - root - INFO - *** Email is iliqkith@gmail.com ***
+2023-04-12 14:55:26,198 - root - INFO - ***** Test add new customer without Customer Roles *****
+2023-04-12 14:55:30,473 - root - INFO - *** Login successful ***
+2023-04-12 14:55:32,109 - root - INFO - *** Start to provide customer information ***
+2023-04-12 14:55:32,109 - root - INFO - *** Email is iyqtztop@gmail.com ***
+2023-04-12 14:57:25,278 - root - INFO - ***** Test add new customer without Customer Roles *****
+2023-04-12 14:57:29,707 - root - INFO - *** Login successful ***
+2023-04-12 14:57:31,471 - root - INFO - *** Start to provide customer information ***
+2023-04-12 14:57:31,471 - root - INFO - *** Email is lycvawxy@gmail.com ***
+2023-04-12 14:59:34,037 - root - INFO - ***** Test add new customer without Customer Roles *****
+2023-04-12 14:59:37,510 - root - INFO - *** Login successful ***
+2023-04-12 14:59:39,541 - root - INFO - *** Start to provide customer information ***
+2023-04-12 14:59:39,541 - root - INFO - *** Email is xmkuagme@gmail.com ***
+2023-04-12 15:00:11,417 - root - INFO - ***** Test add new customer without Customer Roles *****
+2023-04-12 15:00:17,134 - root - INFO - *** Login successful ***
+2023-04-12 15:00:18,739 - root - INFO - *** Start to provide customer information ***
+2023-04-12 15:00:18,740 - root - INFO - *** Email is lalrpgrm@gmail.com ***
+2023-04-12 15:00:30,573 - root - INFO - *** Click Save ***
+2023-04-12 15:00:30,597 - root - INFO - ********* Validation test Passed *********
+2023-04-12 15:00:30,713 - root - INFO - ******* Ending Add customer test **********
+2023-04-12 15:00:30,713 - root - INFO - *** Save successful ***
+2023-04-12 15:03:22,097 - root - INFO - ***** Test add new customer without Customer Roles *****
+2023-04-12 15:03:25,874 - root - INFO - *** Login successful ***
+2023-04-12 15:03:27,393 - root - INFO - *** Start to provide customer information ***
+2023-04-12 15:03:27,393 - root - INFO - *** Email is ganizkii@gmail.com ***
+2023-04-12 15:04:18,857 - root - INFO - ***** Test add new customer without Customer Roles *****
+2023-04-12 15:04:25,066 - root - INFO - *** Login successful ***
+2023-04-12 15:04:26,599 - root - INFO - *** Start to provide customer information ***
+2023-04-12 15:04:26,605 - root - INFO - *** Email is lverwswm@gmail.com ***
+2023-04-12 15:05:30,998 - root - INFO - ***** Test add new customer without Customer Roles *****
+2023-04-12 15:05:35,941 - root - INFO - *** Login successful ***
+2023-04-12 15:05:37,973 - root - INFO - *** Start to provide customer information ***
+2023-04-12 15:05:37,974 - root - INFO - *** Email is tntdfjat@gmail.com ***
+2023-04-12 15:08:20,907 - root - INFO - ***** Test add new customer without Customer Roles *****
+2023-04-12 15:08:27,280 - root - INFO - *** Login successful ***
+2023-04-12 15:08:29,133 - root - INFO - *** Start to provide customer information ***
+2023-04-12 15:08:29,133 - root - INFO - *** Email is hxfrtvad@gmail.com ***
+2023-04-12 15:08:42,436 - root - INFO - *** Click Save ***
+2023-04-12 15:08:42,461 - root - INFO - ********* Validation test Passed *********
+2023-04-12 15:08:42,688 - root - INFO - ******* Ending Add customer test **********
+2023-04-12 15:08:42,688 - root - INFO - *** Save successful ***
