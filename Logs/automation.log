@@ -488,3 +488,24 @@
 2023-04-14 17:30:44,065 - root - INFO - *** Searching ***
 2023-04-14 17:30:46,129 - root - INFO - *** Be able to search with valid email => PASSED ***
 2023-04-14 17:30:46,278 - root - INFO - *** Test search customer by email Finished ***
+2023-04-14 17:33:58,110 - root - INFO - *************************************
+2023-04-14 17:33:58,116 - root - INFO - *** Start Test search customer by valid email ***
+2023-04-14 17:34:11,152 - root - INFO - *** Login successful ***
+2023-04-14 17:34:11,208 - root - INFO - *** Searching ***
+2023-04-14 17:34:13,354 - root - ERROR - *** Result is incorrect => FAILED ***
+2023-04-25 10:40:20,407 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-04-25 10:40:25,849 - root - INFO - *** Login successful ***
+2023-04-25 10:40:27,586 - root - INFO - *** Start to provide customer information ***
+2023-04-25 10:40:27,587 - root - INFO - *** Email is rufpfccx@gmail.com ***
+2023-04-25 10:40:45,677 - root - INFO - *** Click Save ***
+2023-04-25 10:40:45,710 - root - INFO - ********* Add customer Test Passed *********
+2023-04-25 10:40:45,852 - root - INFO - ******* Ending Add customer test **********
+2023-04-25 10:40:45,852 - root - INFO - *** Save successful ***
+2023-04-25 10:40:49,126 - root - INFO - ***** Test add new customer without Customer Roles *****
+2023-04-25 10:41:06,267 - root - INFO - *** Login successful ***
+2023-04-25 10:41:08,427 - root - INFO - *** Start to provide customer information ***
+2023-04-25 10:41:08,429 - root - INFO - *** Email is wpidziul@gmail.com ***
+2023-04-25 10:41:22,032 - root - INFO - *** Click Save ***
+2023-04-25 10:41:22,055 - root - INFO - ********* Validation test Passed *********
+2023-04-25 10:41:22,220 - root - INFO - ******* Ending Add customer test **********
+2023-04-25 10:41:22,240 - root - INFO - *** Save successful ***
