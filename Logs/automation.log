@@ -509,3 +509,35 @@
 2023-04-25 10:41:22,055 - root - INFO - ********* Validation test Passed *********
 2023-04-25 10:41:22,220 - root - INFO - ******* Ending Add customer test **********
 2023-04-25 10:41:22,240 - root - INFO - *** Save successful ***
+2023-04-26 15:39:36,034 - root - INFO - *********Test_Login_001:***********
+2023-04-26 15:39:36,034 - root - INFO - *********Test_Login_001:***********
+2023-04-26 15:39:36,034 - root - INFO - *********Test_Login_001:***********
+2023-04-26 15:39:36,034 - root - INFO - *********Test_Login_001:***********
+2023-04-26 15:39:36,084 - root - INFO - *********test_homePageTitle:***********
+2023-04-26 15:39:36,084 - root - INFO - *********test_homePageTitle:***********
+2023-04-26 15:39:36,084 - root - INFO - *********test_homePageTitle:***********
+2023-04-26 15:39:36,084 - root - INFO - *********test_homePageTitle:***********
+2023-04-26 15:39:38,679 - root - INFO - *********Home page title is passed ***********
+2023-04-26 15:39:38,679 - root - INFO - *********Home page title is passed ***********
+2023-04-26 15:39:38,679 - root - INFO - *********Home page title is passed ***********
+2023-04-26 15:39:38,679 - root - INFO - *********Home page title is passed ***********
+2023-04-26 15:42:48,386 - root - INFO - *********Test_Login_001:***********
+2023-04-26 15:42:48,386 - root - INFO - *********Test_Login_001:***********
+2023-04-26 15:42:48,386 - root - INFO - *********Test_Login_001:***********
+2023-04-26 15:42:48,386 - root - INFO - *********Test_Login_001:***********
+2023-04-26 15:42:48,445 - root - INFO - *********test_homePageTitle:***********
+2023-04-26 15:42:48,445 - root - INFO - *********test_homePageTitle:***********
+2023-04-26 15:42:48,445 - root - INFO - *********test_homePageTitle:***********
+2023-04-26 15:42:48,445 - root - INFO - *********test_homePageTitle:***********
+2023-04-26 15:42:49,448 - root - INFO - *********Home page title is passed ***********
+2023-04-26 15:42:49,448 - root - INFO - *********Home page title is passed ***********
+2023-04-26 15:42:49,448 - root - INFO - *********Home page title is passed ***********
+2023-04-26 15:42:49,448 - root - INFO - *********Home page title is passed ***********
+2023-04-26 15:42:51,215 - root - INFO - *********test_login:***********
+2023-04-26 15:42:51,215 - root - INFO - *********test_login:***********
+2023-04-26 15:42:51,215 - root - INFO - *********test_login:***********
+2023-04-26 15:42:51,215 - root - INFO - *********test_login:***********
+2023-04-26 15:42:54,561 - root - INFO - *********test login is passed ***********
+2023-04-26 15:42:54,561 - root - INFO - *********test login is passed ***********
+2023-04-26 15:42:54,561 - root - INFO - *********test login is passed ***********
+2023-04-26 15:42:54,561 - root - INFO - *********test login is passed ***********
