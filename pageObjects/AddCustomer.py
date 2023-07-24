@@ -2,8 +2,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 import time
 
-class AddCustomer :
 
+class AddCustomer:
     customer_xpath = "//a[@href='#']//p[contains(text(),'Customers')]"
     sub_customer_xpath = "//span[@class='menu-item-title'][contains(text(),'Customers')]"
     btn_AddNew_xpath = "(//a[normalize-space()='Add new'])[1]"
@@ -15,7 +15,7 @@ class AddCustomer :
     gender_Female_id = "Gender_Female"
     dateOfBirth_id = "DateOfBirth"
     company_id = "Company"
-    newsletter_xpath= "(//div[@role='listbox'])[1]"
+    newsletter_xpath = "(//div[@role='listbox'])[1]"
     # newsletter1_xpath = "//li[normalize-space()='Your store name']"
     newsletter1_xpath = "//*[@id='SelectedNewsletterSubscriptionStoreIds_listbox']/li[1]"
     newsletter2_xpath = "//*[@id='SelectedNewsletterSubscriptionStoreIds_listbox']/li[2]"
@@ -31,7 +31,7 @@ class AddCustomer :
     clearRole_xpath = '//*[@id="SelectedCustomerRoleIds_taglist"]/li/span[2]'
     missingRoleValidation_xpath = "//div[@class='content-wrapper']//li[1]"
 
-    def __init__(self, driver):
+    def __init__(self,driver):
         self.driver = driver
 
     def clickOnCustomerMenu(self):
@@ -66,13 +66,13 @@ class AddCustomer :
         else:
             self.driver.find_element(By.ID, self.gender_Female_id).click()
 
-    def fillOutDateOfBirth (self, dateOfBirth):
+    def fillOutDateOfBirth(self, dateOfBirth):
         self.driver.find_element(By.ID, self.dateOfBirth_id).send_keys(dateOfBirth)
 
-    def fillOutCompanyName (self, companyName):
+    def fillOutCompanyName(self, companyName):
         self.driver.find_element(By.ID, self.company_id).send_keys(companyName)
 
-    def fillOutNewsletter (self, value):
+    def fillOutNewsletter(self, value):
         self.driver.find_element(By.XPATH, self.newsletter_xpath).click()
         time.sleep(0.5)
         if value == "Your store name":
@@ -114,9 +114,4 @@ class AddCustomer :
         self.driver.find_element(By.XPATH, self.btn_save_xpath).click()
 
     def clearRoleValue(self):
-        self.driver.find_element(By.XPATH, self.clearRole_xpath ).click()
-
-
-
-
-
+        self.driver.find_element(By.XPATH, self.clearRole_xpath).click()

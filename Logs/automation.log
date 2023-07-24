@@ -541,3 +541,94 @@
 2023-04-26 15:42:54,561 - root - INFO - *********test login is passed ***********
 2023-04-26 15:42:54,561 - root - INFO - *********test login is passed ***********
 2023-04-26 15:42:54,561 - root - INFO - *********test login is passed ***********
+2023-05-05 16:06:46,836 - root - INFO - *************************************
+2023-05-05 16:06:46,845 - root - INFO - *** Start Test search customer by valid email ***
+2023-05-05 16:07:03,750 - root - INFO - *** Login successful ***
+2023-05-05 16:07:03,820 - root - INFO - *** Searching ***
+2023-05-05 16:07:05,877 - root - INFO - *** Be able to search with valid email => PASSED ***
+2023-05-05 16:07:06,005 - root - INFO - *** Test search customer by email Finished ***
+2023-05-05 16:08:02,567 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-05-05 16:08:05,919 - root - INFO - *** Login successful ***
+2023-05-05 16:08:10,861 - root - INFO - *** Start to provide customer information ***
+2023-05-05 16:08:10,862 - root - INFO - *** Email is mxuvmhmd@gmail.com ***
+2023-05-05 16:08:28,480 - root - INFO - *** Click Save ***
+2023-05-05 16:08:28,491 - root - INFO - ********* Add customer Test Passed *********
+2023-05-05 16:08:28,633 - root - INFO - ******* Ending Add customer test **********
+2023-05-05 16:08:28,633 - root - INFO - *** Save successful ***
+2023-05-05 16:08:30,555 - root - INFO - ***** Test add new customer without Customer Roles *****
+2023-05-05 16:08:34,454 - root - INFO - *** Login successful ***
+2023-05-05 16:08:36,436 - root - INFO - *** Start to provide customer information ***
+2023-05-05 16:08:36,436 - root - INFO - *** Email is judoqene@gmail.com ***
+2023-05-05 16:08:49,934 - root - INFO - *** Click Save ***
+2023-05-05 16:08:49,962 - root - INFO - ********* Validation test Passed *********
+2023-05-05 16:08:50,239 - root - INFO - ******* Ending Add customer test **********
+2023-05-05 16:08:50,239 - root - INFO - *** Save successful ***
+2023-05-05 16:10:23,702 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-05-05 16:10:30,211 - root - INFO - *** Login successful ***
+2023-05-05 16:10:32,739 - root - INFO - *** Start to provide customer information ***
+2023-05-05 16:10:32,740 - root - INFO - *** Email is xphashue@gmail.com ***
+2023-05-05 16:10:50,662 - root - INFO - *** Click Save ***
+2023-05-05 16:10:50,697 - root - INFO - ********* Add customer Test Passed *********
+2023-05-05 16:10:50,841 - root - INFO - ******* Ending Add customer test **********
+2023-05-05 16:10:50,841 - root - INFO - *** Save successful ***
+2023-05-05 16:10:53,934 - root - INFO - ***** Test add new customer without Customer Roles *****
+2023-05-05 16:10:58,095 - root - INFO - *** Login successful ***
+2023-05-05 16:10:59,864 - root - INFO - *** Start to provide customer information ***
+2023-05-05 16:10:59,865 - root - INFO - *** Email is ywjzwvdw@gmail.com ***
+2023-05-05 16:11:13,329 - root - INFO - *** Click Save ***
+2023-05-05 16:11:13,369 - root - INFO - ********* Validation test Passed *********
+2023-05-05 16:11:13,537 - root - INFO - ******* Ending Add customer test **********
+2023-05-05 16:11:13,537 - root - INFO - *** Save successful ***
+2023-05-05 16:14:49,302 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-05-05 16:14:53,559 - root - INFO - *** Login successful ***
+2023-05-05 16:14:55,051 - root - INFO - *** Start to provide customer information ***
+2023-05-05 16:14:55,051 - root - INFO - *** Email is jqccgylj@gmail.com ***
+2023-05-05 16:15:12,801 - root - INFO - *** Click Save ***
+2023-05-05 16:15:12,838 - root - INFO - ********* Add customer Test Passed *********
+2023-05-05 16:15:13,001 - root - INFO - ******* Ending Add customer test **********
+2023-05-05 16:15:13,001 - root - INFO - *** Save successful ***
+2023-05-05 16:15:15,419 - root - INFO - ***** Test add new customer without Customer Roles *****
+2023-05-05 16:15:20,024 - root - INFO - *** Login successful ***
+2023-05-05 16:15:21,623 - root - INFO - *** Start to provide customer information ***
+2023-05-05 16:15:21,629 - root - INFO - *** Email is ulcitqpx@gmail.com ***
+2023-05-05 16:15:35,025 - root - INFO - *** Click Save ***
+2023-05-05 16:17:14,860 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-05-05 16:17:20,876 - root - INFO - *** Login successful ***
+2023-05-05 16:17:22,766 - root - INFO - *** Start to provide customer information ***
+2023-05-05 16:17:22,766 - root - INFO - *** Email is hcoqqhxt@gmail.com ***
+2023-05-05 16:17:40,310 - root - INFO - *** Click Save ***
+2023-05-05 16:17:40,338 - root - INFO - ********* Add customer Test Passed *********
+2023-05-05 16:17:40,476 - root - INFO - ******* Ending Add customer test **********
+2023-05-05 16:17:40,490 - root - INFO - *** Save successful ***
+2023-05-05 16:17:42,248 - root - INFO - ***** Test add new customer without Customer Roles *****
+2023-05-05 16:17:49,382 - root - INFO - *** Login successful ***
+2023-05-05 16:17:54,296 - root - INFO - *** Start to provide customer information ***
+2023-05-05 16:17:54,297 - root - INFO - *** Email is yxvtxgsg@gmail.com ***
+2023-05-05 16:18:07,672 - root - INFO - *** Click Save ***
+2023-05-05 16:18:07,699 - root - INFO - ********* Validation test Passed *********
+2023-05-05 16:18:07,840 - root - INFO - ******* Ending Add customer test **********
+2023-05-05 16:18:07,840 - root - INFO - *** Save successful ***
+2023-07-24 10:15:12,840 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-07-24 10:15:14,082 - root - INFO - ***** Test add new customer without Customer Roles *****
+2023-07-24 10:15:21,742 - root - INFO - *** Login successful ***
+2023-07-24 10:15:32,426 - root - INFO - *** Login successful ***
+2023-07-24 10:19:42,242 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-07-24 10:19:47,792 - root - INFO - *** Login successful ***
+2023-07-24 10:19:49,589 - root - INFO - ***** Test add new customer without Customer Roles *****
+2023-07-24 10:19:54,395 - root - INFO - *** Login successful ***
+2023-07-24 10:23:24,887 - root - INFO - ***** Test add new customer full flow SUCCESS *****
+2023-07-24 10:23:29,343 - root - INFO - *** Login successful ***
+2023-07-24 10:23:30,966 - root - INFO - *** Start to provide customer information ***
+2023-07-24 10:23:30,968 - root - INFO - *** Email is plvnmhxc@gmail.com ***
+2023-07-24 10:23:48,898 - root - INFO - *** Click Save ***
+2023-07-24 10:23:48,918 - root - INFO - ********* Add customer Test Passed *********
+2023-07-24 10:23:49,141 - root - INFO - ******* Ending Add customer test **********
+2023-07-24 10:23:49,141 - root - INFO - *** Save successful ***
+2023-07-24 10:23:52,114 - root - INFO - ***** Test add new customer without Customer Roles *****
+2023-07-24 10:23:56,462 - root - INFO - *** Login successful ***
+2023-07-24 10:24:00,229 - root - INFO - *** Start to provide customer information ***
+2023-07-24 10:24:00,230 - root - INFO - *** Email is rttpeloz@gmail.com ***
+2023-07-24 10:24:13,583 - root - INFO - *** Click Save ***
+2023-07-24 10:24:13,610 - root - INFO - ********* Validation test Passed *********
+2023-07-24 10:24:13,765 - root - INFO - ******* Ending Add customer test **********
+2023-07-24 10:24:13,765 - root - INFO - *** Save successful ***
